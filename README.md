@@ -13,7 +13,7 @@ This is a simple currency converter app built with React. It allows users to con
 
 #### API Link
 ```javascript
-let url = `https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/${currency}.json`
+https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/${currency}.json
 
 ```
 
